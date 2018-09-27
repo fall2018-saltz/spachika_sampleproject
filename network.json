@@ -23,6 +23,16 @@
             ],
             "source": "clean.R",
             "target": "data.csv"
+        },
+        {
+            "ports": [
+                {
+                    "input": "rttg",
+                    "type": "csv"
+                }
+            ],
+            "source": "data.csv",
+            "target": "script5214.R"
         }
     ],
     "nodes": [
@@ -43,6 +53,6 @@
             "name": "csvfile657.csv"
         }
     ],
-    "updated_at": "2018-09-27 15:33:29",
+    "updated_at": "2018-09-27 15:35:42",
     "url": "https://github.com/fall2018-saltz/spachika_sampleproject"
 }
