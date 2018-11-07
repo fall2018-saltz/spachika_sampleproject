@@ -48,11 +48,8 @@
         {
             "desc": "jdbcbkaz",
             "name": "script5214.R"
-        },
-        {
-            "name": "CENSUS.csv"
         }
     ],
-    "updated_at": "2018-11-07 03:48:07",
+    "updated_at": "2018-11-07 03:48:10",
     "url": "https://github.com/fall2018-saltz/spachika_sampleproject"
 }
